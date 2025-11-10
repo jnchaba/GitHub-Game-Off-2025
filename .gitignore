@@ -12,3 +12,6 @@ CLAUDE.md
 
 # Markdown files prefixed with period (e.g., .notes.md, .scratch.md)
 .*.md
+
+# OS
+.DS_Store
