@@ -87,7 +87,7 @@ static func create_preset_puzzles() -> Array[SignalPuzzle]:
 		3,
 		"Complex Signal",
 		"",  # No tutorial - same controls as puzzle 3
-		6.5,  # target_frequency
+		6.0,  # target_frequency
 		0.7,  # target_amplitude
 		0.6,  # target_fm_strength (higher than before)
 		0.8,  # target_fm_rate (higher than before)
@@ -101,7 +101,7 @@ static func create_preset_puzzles() -> Array[SignalPuzzle]:
 		4,
 		"Master Signal",
 		"Final challenge!\n\nAM (Amplitude Modulation) controls unlocked.\n- AM STRENGTH: How much the amplitude varies\n- AM RATE: How fast the amplitude oscillates\n\nMatch all six parameters perfectly to complete the test.",
-		5.5,  # target_frequency
+		9.0,  # target_frequency
 		0.4,  # target_amplitude
 		0.4,  # target_fm_strength
 		0.3,  # target_fm_rate

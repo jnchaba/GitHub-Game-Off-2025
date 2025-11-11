@@ -10,7 +10,8 @@ config_version=5
 
 [application]
 
-config/name="GitHub Game Off 2025"
+config/name="Signal Match Prototype"
+run/main_scene="uid://db5l4a38dq4e5"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
 
