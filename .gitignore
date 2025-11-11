@@ -9,6 +9,7 @@ CLAUDE.md
 
 # Internal Documentation / Notes
 .docs/
+docs/
 
 # Markdown files prefixed with period (e.g., .notes.md, .scratch.md)
 .*.md
