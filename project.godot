@@ -10,6 +10,18 @@ config_version=5
 
 [application]
 
-config/name="GitHub Game Off 2025"
+config/name="Signal Match Prototype"
+run/main_scene="uid://db5l4a38dq4e5"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
+
+[autoload]
+
+EventBus="*res://globals/event-bus.gd"
+AudioManager="*res://globals/audio-manager.gd"
+GameEnums="*res://globals/game-enums.gd"
+
+[display]
+
+window/size/viewport_width=1920
+window/size/viewport_height=1080
